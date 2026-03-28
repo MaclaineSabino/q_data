@@ -72,6 +72,30 @@
 "categoria": "FILMES",
 "prioridade": "NORMAL",
 "nivel": "FACIL"
+},
+{
+"id_remoto": 106,
+"pergunta": "Qual filme tem um arqueólogo chamado Indiana Jones?",
+"opcao_a": "Indiana Jones",
+"opcao_b": "Tom Raider",
+"opcao_c": "Percy Jackson",
+"opcao_d": "Eragon",
+"resposta_correta": "A",
+"categoria": "FILMES",
+"prioridade": "NORMAL",
+"nivel": "FACIL"
+},
+{
+"id_remoto": 107,
+"pergunta": "Qual filme tem um deserto pós-apocalíptico?",
+"opcao_a": "Mad Max",
+"opcao_b": "Duna",
+"opcao_c": "Percy Jackson",
+"opcao_d": "Eragon",
+"resposta_correta": "A",
+"categoria": "FILMES",
+"prioridade": "NORMAL",
+"nivel": "FACIL"
 }
 ]
 }
