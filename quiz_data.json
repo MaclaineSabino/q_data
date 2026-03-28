@@ -1,5 +1,5 @@
 {
-"versao": 2,
+"versao": 3,
 "perguntas": [
 {
 "id_remoto": 100,
@@ -89,6 +89,29 @@
 "id_remoto": 107,
 "pergunta": "Qual filme tem um deserto pós-apocalíptico?",
 "opcao_a": "Mad Max",
+"opcao_b": "Duna",
+"opcao_c": "Percy Jackson",
+"opcao_d": "Eragon",
+"resposta_correta": "A",
+"categoria": "FILMES",
+"prioridade": "NORMAL",
+"nivel": "FACIL"
+},
+"id_remoto": 108,
+"pergunta": "Qual filme tem um parque com clones falhos?",
+"opcao_a": "Jurassic Park",
+"opcao_b": "Tomb Raider",
+"opcao_c": "Percy Jackson",
+"opcao_d": "Eragon",
+"resposta_correta": "A",
+"categoria": "FILMES",
+"prioridade": "NORMAL",
+"nivel": "FACIL"
+},
+{
+"id_remoto": 109,
+"pergunta": "Qual filme tem Thanos como vilão?",
+"opcao_a": "Vingadores",
 "opcao_b": "Duna",
 "opcao_c": "Percy Jackson",
 "opcao_d": "Eragon",
