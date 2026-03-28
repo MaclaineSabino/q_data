@@ -1,5 +1,5 @@
 {
-"versao": 1,
+"versao": 2,
 "perguntas": [
 {
 "id_remoto": 100,
@@ -72,17 +72,12 @@
 "categoria": "FILMES",
 "prioridade": "NORMAL",
 "nivel": "FACIL"
-}
-
-]
-
-"versao": 2,
-"perguntas": [
+},
 {
 "id_remoto": 106,
 "pergunta": "Qual filme tem um arqueólogo chamado Indiana Jones?",
 "opcao_a": "Indiana Jones",
-"opcao_b": "Tom Raider",
+"opcao_b": "Tomb Raider",
 "opcao_c": "Percy Jackson",
 "opcao_d": "Eragon",
 "resposta_correta": "A",
@@ -103,9 +98,5 @@
 "nivel": "FACIL"
 }
 ]
-
-
-
-
 }
 
