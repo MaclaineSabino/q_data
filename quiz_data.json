@@ -1,5 +1,5 @@
 {
-"versao": 1,
+"versao": 2,
 "app_versao": 0,
 "perguntas": [
 {
@@ -133,6 +133,18 @@
 "categoria": "FILMES",
 "prioridade": "NORMAL",
 "nivel": "MEDIO"
+},
+{
+"id_remoto": 111,
+"pergunta": "Qual o nome da substância alienígena que, ao entrar em contato com o protagonista, começa a transformá-lo geneticamente?",
+"opcao_a": "Pranium",
+"opcao_b": "Fluido Negro",
+"opcao_c": "ADN Mutagênico",
+"opcao_d": "Nanite",
+"resposta_correta": "A",
+"categoria": "FILMES",
+"prioridade": "NORMAL",
+"nivel": "DIFICIL"
 }
 ]
 }
