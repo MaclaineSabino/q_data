@@ -1,129 +1,10 @@
 {
-"versao": 2,
+"versao": 0,
 "app_versao": 0,
 "perguntas": [
+
 {
 "id_remoto": 100,
-"pergunta": "Quem interpretou o Homem de Ferro?",
-"opcao_a": "Chris Evans",
-"opcao_b": "Robert Downey Jr.",
-"opcao_c": "Chris Hemsworth",
-"opcao_d": "Mark Ruffalo",
-"resposta_correta": "B",
-"categoria": "ATORES",
-"prioridade": "NORMAL",
-"nivel": "FACIL"
-},
-{
-"id_remoto": 101,
-"pergunta": "Qual filme ganhou o Oscar de Melhor Filme em 1998?",
-"opcao_a": "Titanic",
-"opcao_b": "Gladiador",
-"opcao_c": "Matrix",
-"opcao_d": "Forrest Gump",
-"resposta_correta": "A",
-"categoria": "FILMES",
-"prioridade": "NORMAL",
-"nivel": "FACIL"
-},
-{
-"id_remoto": 102,
-"pergunta": "Quem dirigiu o filme 'Inception'?",
-"opcao_a": "Steven Spielberg",
-"opcao_b": "James Cameron",
-"opcao_c": "Christopher Nolan",
-"opcao_d": "Quentin Tarantino",
-"resposta_correta": "C",
-"categoria": "DIRETORES",
-"prioridade": "NORMAL",
-"nivel": "MEDIO"
-},
-{
-"id_remoto": 103,
-"pergunta": "Qual série tem o personagem Walter White?",
-"opcao_a": "Breaking Bad",
-"opcao_b": "Game of Thrones",
-"opcao_c": "The Walking Dead",
-"opcao_d": "Stranger Things",
-"resposta_correta": "A",
-"categoria": "SERIES",
-"prioridade": "NORMAL",
-"nivel": "FACIL"
-},
-{
-"id_remoto": 104,
-"pergunta": "Qual ator interpretou o Coringa em 'O Cavaleiro das Trevas'?",
-"opcao_a": "Joaquin Phoenix",
-"opcao_b": "Heath Ledger",
-"opcao_c": "Jared Leto",
-"opcao_d": "Jack Nicholson",
-"resposta_correta": "B",
-"categoria": "ATORES",
-"prioridade": "ALTA",
-"nivel": "MEDIO"
-},
-{
-"id_remoto": 105,
-"pergunta": "Qual filme pertence ao universo de Harry Potter?",
-"opcao_a": "Animais Fantásticos",
-"opcao_b": "Senhor dos Anéis",
-"opcao_c": "Percy Jackson",
-"opcao_d": "Eragon",
-"resposta_correta": "A",
-"categoria": "FILMES",
-"prioridade": "NORMAL",
-"nivel": "FACIL"
-},
-{
-"id_remoto": 106,
-"pergunta": "Qual filme tem um arqueólogo chamado Indiana Jones?",
-"opcao_a": "Indiana Jones",
-"opcao_b": "Tomb Raider",
-"opcao_c": "Percy Jackson",
-"opcao_d": "Eragon",
-"resposta_correta": "A",
-"categoria": "FILMES",
-"prioridade": "NORMAL",
-"nivel": "FACIL"
-},
-{
-"id_remoto": 107,
-"pergunta": "Qual filme tem um deserto pós-apocalíptico?",
-"opcao_a": "Mad Max",
-"opcao_b": "Duna",
-"opcao_c": "Percy Jackson",
-"opcao_d": "Eragon",
-"resposta_correta": "A",
-"categoria": "FILMES",
-"prioridade": "NORMAL",
-"nivel": "FACIL"
-},
-{
-"id_remoto": 108,
-"pergunta": "Qual filme tem um parque com clones falhos?",
-"opcao_a": "Jurassic Park",
-"opcao_b": "Tomb Raider",
-"opcao_c": "Percy Jackson",
-"opcao_d": "Eragon",
-"resposta_correta": "A",
-"categoria": "FILMES",
-"prioridade": "NORMAL",
-"nivel": "FACIL"
-},
-{
-"id_remoto": 109,
-"pergunta": "Qual filme tem Thanos como vilão?",
-"opcao_a": "Vingadores",
-"opcao_b": "Duna",
-"opcao_c": "Percy Jackson",
-"opcao_d": "Eragon",
-"resposta_correta": "A",
-"categoria": "FILMES",
-"prioridade": "NORMAL",
-"nivel": "FACIL"
-},
-{
-"id_remoto": 110,
 "pergunta": "Em que cidade da África do Sul se passa a maior parte do filme Distrito 9?",
 "opcao_a": "Cidade do Cabo",
 "opcao_b": "Joanesburgo",
@@ -135,8 +16,8 @@
 "nivel": "MEDIO"
 },
 {
-"id_remoto": 111,
-"pergunta": "Qual o nome da substância alienígena que, ao entrar em contato com o protagonista, começa a transformá-lo geneticamente?",
+"id_remoto": 101,
+"pergunta": "No filme Distrito 9. Qual o nome da substância alienígena que, ao entrar em contato com o protagonista, começa a transformá-lo geneticamente?",
 "opcao_a": "Pranium",
 "opcao_b": "Fluido Negro",
 "opcao_c": "ADN Mutagênico",
