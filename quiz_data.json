@@ -121,6 +121,18 @@
 "categoria": "FILMES",
 "prioridade": "NORMAL",
 "nivel": "FACIL"
+},
+{
+"id_remoto": 110,
+"pergunta": "Em que cidade da África do Sul se passa a maior parte do filme Distrito 9?",
+"opcao_a": "Cidade do Cabo",
+"opcao_b": "Joanesburgo",
+"opcao_c": "Durban",
+"opcao_d": "Pretória",
+"resposta_correta": "B",
+"categoria": "FILMES",
+"prioridade": "NORMAL",
+"nivel": "MEDIO"
 }
 ]
 }
